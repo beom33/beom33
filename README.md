@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeom33&count_bg=%23E9A186&title_bg=%23171717&icon=github.svg&icon_color=%23CFAFAF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<div align=right> <a href="https://github.com/beom33/gitanimals">
+<div align=right> <a href="https://www.notion.so/git-49ad7cb1fad2436aa5bc7c50714ec721?pvs=4">
   <img src="https://render.gitanimals.org/farms/{beom33}"/>
 </a>
 </div>
