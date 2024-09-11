@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=💻Beom's)
 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeom33&count_bg=%23E9A186&title_bg=%23171717&icon=github.svg&icon_color=%23CFAFAF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
@@ -54,6 +55,8 @@
 <img src="https://img.shields.io/badge/AndroidStudio-006400?style=for-the-badge&logo=AndroidStudio&logoColor=white">
 <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
 
+
+<img src="https://camo.githubusercontent.com/02984eac5d86fdec3242c786e3563182bd35a0a5e8369c36be0b9bfc8a2e991b/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d3230266865696768743d3230302673656374696f6e3d666f6f746572" alt="Footer" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=20&amp;height=200&amp;section=footer" style="max-width: 100%;">
 
 
 
