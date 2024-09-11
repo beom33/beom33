@@ -18,6 +18,7 @@
 
 
 <h1>📝B_log</h1>
+<div align=left>
 <a href="https://www.notion.so/git-49ad7cb1fad2436aa5bc7c50714ec721?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/git-49ad7cb1fad2436aa5bc7c50714ec721?pvs=4"/></a>
 
 <h1>📚 STACKS</h1>
