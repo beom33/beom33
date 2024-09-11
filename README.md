@@ -11,10 +11,16 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beom33)](https://github.com/anuraghazra/github-readme-stats) 
 
-<h1>📱WEB_M</h1>
+
+<h1>🪐Contect</h1>
+<div align=left> 
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"><img src="https://img.shields.io/badge/byby5583@gmail.com-FF8C00?style=for-the-badge&logo=&logoColor=white">
+<div align=left> 
+<img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"><img src="https://img.shields.io/badge/byby5546@naver.com-228B22?style=for-the-badge&logo=&logoColor=white">
+
+<h1>📱WEB</h1>
 <a href="https://www.naver.com/"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 <a href="https://www.google.com/"><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=google&logoColor=white">
 
 
 
