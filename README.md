@@ -11,9 +11,11 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beom33)](https://github.com/anuraghazra/github-readme-stats) 
 
-<h1>📱WEB_P</h1> 
+<h1>📱WEB_M</h1>
 <a href="https://www.naver.com/"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 <a href="https://www.google.com/"><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=google&logoColor=white">
+
 
 
 
@@ -23,7 +25,7 @@
 
 <h1>📚 STACKS</h1>
 <div align=left> 
-<img src="https://img.shields.io/badge/JaVa-007396?style=for-the-badge&logo=JaVa&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
